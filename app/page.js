@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 export default function Home() {
+  console.log ("Hello world")
   return (
     <main className="mt-10">
         <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur, sint ipsum? Reprehenderit odit dolorem repellendus aperiam. Doloremque voluptates fugit beatae temporibus non laboriosam cumque aliquam debitis, itaque porro est saepe.
